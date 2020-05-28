@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1590066112 source:d:\codeblock\lab4\main.cpp
-	"DList.h"
-
-1590066077 d:\codeblock\lab4\dlist.h
-	<iostream>
-	<windows.h>
-
