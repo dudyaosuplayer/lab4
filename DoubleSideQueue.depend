@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589921148 source:d:\codeblock\lab4\main.cpp
+	<iostream>
+	"doublesidequeue.h"
+
+1589921064 d:\codeblock\lab4\doublesidequeue.h
+	<iostream>
+
